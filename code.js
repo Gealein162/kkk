@@ -5,7 +5,7 @@ let persone = {
     name: "Mrn",	
     age: 23,
 	husband: "Hope",
-	child: false
+	child: true
 	};
 	console.log(persone.name);
 	
